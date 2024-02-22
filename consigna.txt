@@ -1,0 +1,16 @@
+- Deben ser desarrollados los siguientes puntos completamente en python
+
+1. Ir a: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home
+
+2. Sección "Documents & Downloads"
+
+3. En la sección "National Incident-Based Reporting System (NIBRS) Tables" elegir table: Victims, año: 2022, location: Florida
+
+4. Descargar archivo
+
+5. Con pandas leer zip y elegir el archivo: Victims_Age_by_Offense_Category_2022.xlsx
+
+6. Elegir categoria Crimes Against Property y generar csv sin totales, footer, ni index
+
+- Se requiere un código que ejecute todas las partes, desde el webscraping hasta la generación del archivo csv,
+debe entregar el código completo y el archivo resultado.
